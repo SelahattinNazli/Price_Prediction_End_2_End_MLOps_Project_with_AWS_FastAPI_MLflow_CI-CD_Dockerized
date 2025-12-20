@@ -1,4 +1,4 @@
-## Housing ML end2end Project
+## Price Prediction Regression ML end2end Project
 
 ## Project Overview
 
